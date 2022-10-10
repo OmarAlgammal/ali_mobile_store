@@ -1,0 +1,173 @@
+ {
+
+   "registerAsEmployer": "Register as employer",
+   "registerAsEmployee": "Register as employee",
+
+   "wrongPassword": "Wrong password",
+
+   "theName": "The name",
+
+   "phoneNum": "Phone number",
+   "enterThePhoneNum": "Enter the phone number",
+   "enterThePhoneNumCorrectly": "Enter The phone number correctly",
+   "youShouldEnterThePhoneNum": "You should enter the phone number",
+   "invalidPhoneNum": "Invalid phone number",
+
+    "error": "An error occurred",
+
+    "verify": "Verify",
+    "enterThePassword": "Enter the password",
+    "enterThePasswordFirst": "Enter the password first",
+    "shortPassword": "The password cannot be less than 6 digits",
+
+   "waitingOTP": "waiting to automatically detect an SMS sent to",
+   "changeYourNum": "Change your num?",
+
+   "enterOtpNum": "Enter 6 digit code",
+   "verifyPhoneNum": "Verify phone number",
+   "resendOtp": "Resend SMS",
+   "invalidOTP": "Invalid OTP",
+
+   "waitingForYouToBeAccepted": "في انتظار قبولك من قبل صاحب العمل",
+
+   "submit": "Submit",
+   "youShouldEnterTheNameFirst": "You should enter the name first",
+   "theNameIsTooShort": "The name is too short",
+   "toTheStore": "To the store",
+
+   "noInstallmentsHere": "No installments here",
+
+   "noInstallmentsToday": "No installments today",
+   "noInstallmentsTomorrow": "No installments tomorrow",
+   "noMissedInstallments": "No missed installments",
+   "noInstallmentsInThisDate": "No installments in this date",
+
+   "installmentsListIsEmpty": "Installments list is empty",
+   "thereIsNoCompleteInstallments": "No completed Installments",
+
+   "youAreOffline": "You can't update the data when you are offline",
+   "youCanNotAddAInstallmentWhenYouAreOffline": "You can't add a installment when you are offline",
+
+   "saved": "Saved",
+   "adjustmentSaved": "adjustment saved",
+   "retreat": "Retreat",
+
+   "myStore": "store management",
+   "completeInstallments": "complete installments",
+   "installmentsList": "installments list",
+   "todayInstallments": "Today's Installments",
+   "installmentsListIsEmpty": "Installments List Is Empty",
+
+   "installmentData": "Installments Data",
+   "updateInstallmentData": "Update Installments Data",
+   "clientName": "Client Name",
+   "clientNumber": "Client Number",
+   "clientId": "Client ID",
+   "guarantorName": "Guarantor Name",
+   "guarantorNumber": "Guarantor Number",
+   "guarantorId": "Guarantor ID",
+   "brandName": "Phone Brand",
+   "phoneName": "Phone Name",
+   "phonePrice": "Phone Price",
+   "advancedAmount": "Advanced Amount",
+   "installmentPeriod": "Installment Period",
+   "theRest": "Rest",
+   "theProfit": "Profit",
+   "paidMonthly": "Paid Monthly",
+   "receivedDate": "Received Date",
+   "clientNamePlease": "Enter Client Name Please",
+   "clientNumberPlease": "Enter Client Number Please",
+   "clientIdPlease": "Enter Client ID Please",
+   "guarantorNamePlease": "Enter Guarantor Name Please",
+   "guarantorNumberPlease": "Enter Guarantor Number Please",
+   "guarantorIdPlease": "Enter Guarantor ID Please",
+   "brandPlease": "Determine Phone Brand Please",
+   "phoneNamePlease": "Determine Phone Name PLease",
+   "phonePricePlease": "Enter Phone Price Please",
+   "phonePriceCant": "Phone Price Cant't Be Negative Value",
+   "advancedAmountPlease": "Enter Advanced Amount Please",
+   "advancedAmountCant": "Advanced Amount Cant't Be Negative Value",
+   "installmentPeriodPlease": "Enter Installment Period Please",
+   "installmentPeriodCant": "Installment Period Can't Be Negative Value",
+   "show": "Show",
+   "save": "Save",
+
+   "pay": "Pay",
+   "ok": "Ok",
+   "cancel": "Cancel",
+
+   "enterPaymentAmount": "ُEnter payment amount",
+
+   "clientData": "Client Data",
+
+    "installmentsRecord": "Installments Record",
+    "total": "Total",
+    "paidFromInstallments": "Paid from installments",
+
+    "installmentPrice": "Installment Price",
+    "theAmountPaid": "The Amount Paid",
+    "installmentDate": "Installment Date",
+    "paymentDate": "Date Of Payment",
+    "pound": "Pound",
+
+    "month": "month",
+    "months": "months",
+    "and": "and",
+
+   "installmentNum": "Installment Number",
+   "payTheInstallmentNum": "Pay The Installment Number",
+   "from": "from",
+   "endTheInstallmentByPaying": "Biggest Price To Pay: ",
+   "lateReceivables": "Late Receivables: ",
+   "restFromOriginalPhonePrice": "Rest from original phone price : ",
+   "restFromProfitOfAgreement": "Rest from profit of agreement: ",
+
+   "additionalProfitNumOne": "Additional Profit Have Been Added To The Client In The Amount Of ",
+   "additionalProfitNumTwo": " Pound For Bing Late For The Payment Date By ",
+   "additionalProfitNumThree": "Days. To confirm The Additional Profit Click On The Box In The left Side",
+
+   "installmentWasEndWithAdditionalProfitOf": "Installment was end with additional Profit of",
+   "installmentWasEndWithAtALoseOne": "Installment was end with a lose of",
+   "installmentWasEndWithAtALoseTwo": "from original phone price",
+   "installmentWasEndWithAtALoseThree": "from profit in deal in total",
+
+   "additionalProfitWarning": "additional profit will be calculated from tomorrow",
+
+    "callingClient" : "Calling Client",
+    "callingGuarantor" : "Calling Guarantor",
+   "paymentRecord" : "Payment Record",
+   "updateClientData" : "Update Client Data",
+   "updateClientData" : "Update Client Data",
+   "endTheInstallment" : "End the installment",
+
+
+   "endTheInstallmentWithALoseOf" : "End the installment with a lose of",
+   "fromOriginalPhonePrice" : "From original phone price :",
+   "fromProfitUntilKnow": "From profit until know :",
+
+   "enterTheAmount": "Enter the amount",
+
+   "youCantPayZeroInThisCase" : "You can't pay zero in this case",
+   "completeInstallmentsCanNotBeUpdated" : "Complete Installments Can Not Be Updated",
+   "thisAmountIsGreaterThanTerminationAmount": "This amount is greater than termination Amount",
+   "amountPaidIsBiggerThanRequiredOne" : "The amount paid cannot be bigger than sum of the rest and profit",
+   "amountPaidIsBiggerThanRequiredTwo" : "The amount paid cannot be bigger than or equal to biggest price to pay",
+
+
+    "todayInstallments" : "Today Installments",
+    "tomorrowInstallments" : "Tomorrow Installments",
+    "missedInstallments" : "Missed Installments",
+    "determineDate" : "Determine Date",
+    "selectDate" : "Select Date",
+    "loading" : "Loading..",
+
+   "clients": "Clients",
+   "state": "State",
+   "da": "date/time",
+
+    "canceled": "canceled",
+    "paid": "Paid",
+    "today": "Today",
+    "late": "Late",
+    "next": "Next"
+ }

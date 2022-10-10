@@ -1,0 +1,177 @@
+ {
+
+   "registerAsEmployer": "التسجيل كصاحب العمل",
+   "registerAsEmployee": "التسجيل كموظف",
+
+   "wrongPassword": "الرقم السري غير صحيح",
+
+    "theName": "الاسم",
+
+    "phoneNum": "رقم الهاتف",
+   "enterThePhoneNum": "أدخل رقم الهاتف",
+   "enterThePhoneNumCorrectly": "أدخل رقم الهاتف بشكل صحيح",
+   "youShouldEnterThePhoneNum": "يجب ادخال رقم الهاتف",
+   "invalidPhoneNum": "رقم هاتف غير صالح",
+
+   "error": "حدث خطأ",
+
+   "verify": "التحقق",
+   "enterThePassword": "ادخل الرقم السري",
+   "enterThePasswordFirst": "أدخل الرقم السري أولا",
+   "shortPassword": "لا يمكن أن يكون الرقم السري اقل من 6 أرقام",
+
+   "waitingOTP": "تم ارسال رمز في رسالة نصية الي",
+   "changeYourNum": "تغييرالرقم؟",
+
+   "enterOtpNum": "ادخل الكود المكون من 6 أرقام",
+   "verifyPhoneNum": "التحقق من رقم الهاتف",
+   "resendOtp": "اعادة ارسال الرمز",
+   "invalidOTP": "رقم OTP غير صحيح",
+
+
+   "waitingForYouToBeAccepted": "Wanting for you to be accepted by the employer",
+
+
+   "submit": "إرسال",
+   "youShouldEnterTheNameFirst": "يجب إدخال الاسم أولا",
+   "theNameIsTooShort": "الاسم قصير جدا",
+   "toTheStore": "إلي المتجر",
+
+   "noInstallmentsHere": "No installments here",
+
+    "noInstallmentsToday": "لا توجد أقساط اليوم",
+    "noInstallmentsTomorrow": "لا توجد أقساط الغد",
+    "noMissedInstallments": "لا توجد أقساط متأخرة",
+    "noInstallmentsInThisDate": "لا توجد أقساط في هذا التاريخ",
+
+   "installmentsListIsEmpty": "قائمة الأقساط فارغه",
+   "thereIsNoCompleteInstallments": "لا توجد أقساط مكتملة",
+
+
+   "youAreOffline": "لا يمكنك تعديل البيانات وأنت غير متصل بالانترنت",
+   "saved": "تم الحفظ",
+   "adjustmentSaved": "تم حفظ التعديلات",
+   "retreat": "تراجع",
+
+
+    "myStore": "المتجر",
+   "completeInstallments": "الأقساط المكتملة",
+   "installmentsList": "قائمة الأقساط",
+   "todayInstallments": "أقساط اليوم",
+   "installmentsListIsEmpty": "قائمة الأقساط فارغه",
+
+   "installmentData": "بيانات القسط",
+   "updateInstallmentData": "تحديث بيانات القسط",
+
+   "clientName": "اسم العميل",
+   "clientNumber": "رقم هاتف العميل",
+   "clientId": "الرقم القومي للعميل",
+   "guarantorName": "اسم الضامن",
+   "guarantorNumber": "رقم هاتف الضامن",
+   "guarantorId": "الرقم القومي للضامن",
+   "brandName": "نوع الهاتف",
+   "phoneName": "اسم الهاتف",
+   "phonePrice": "سعر الهاتف",
+   "advancedAmount": "المقدم",
+   "installmentPeriod": "فترة التقسيط",
+   "theRest" : "الباقي",
+   "theProfit" : "الفائدة",
+   "paidMonthly" : "يدفع شهريا",
+   "receivedDate" : "تاريخ الاستلام",
+   "clientNamePlease" : "ادخل اسم العميل من فضلك",
+   "clientNumberPlease" : "يجب ادخال رقم العميل",
+   "clientIdPlease" : "يجب ادخال رقم بطاقة العميل كاملا",
+   "guarantorNamePlease" : "ادخل اسم الضامن من فضلك",
+   "guarantorNumberPlease" : "يجب ادخال رقم الضامن",
+   "guarantorIdPlease" : "يجب ادخال رقم بطاقة الضامن كاملا",
+   "brandPlease" : "يجب تحدبد نوع الهاتفا",
+   "phoneNamePlease" : "يجب تحدبد اسم الهاتفا",
+   "phonePricePlease" : "ادخل سعر الهاتف من فضلك",
+   "phonePriceCant" : "لا يمكن ان يكون سعر الهاتف بقية سالبة",
+   "advancedAmountPlease" : "ادخل المقدم من فضلك",
+   "advancedAmountCant" : "لا يمكن ان يكون المقدم بقيمة سالبة",
+   "installmentPeriodPlease" : "ادخل فترة القسط من فضلك",
+   "installmentPeriodCant" : "لا يمكن ان تكون فترة التقسيط بقيمة سالبة",
+   "show" : "عرض",
+   "save" : "حفظ",
+
+   "pay": "ادفع",
+   "ok" : "موافق",
+   "cancel" : "إلغاء",
+
+   "enterPaymentAmount": "أدخل قيمة الدفع",
+
+   "clientData" : "بيانات العميل",
+
+   "installmentsRecord": "سجل الأقساط",
+   "total": "الإجمالي",
+   "paidFromInstallments": "المدفوع من الأقساط",
+
+    "installmentPrice": "سعر القسط",
+    "theAmountPaid": "المبلغ المدفوع",
+    "installmentDate": "تاريخ القسط",
+    "paymentDate": "تاريخ السداد",
+    "pound": "جنية",
+
+
+    "month": "شهر",
+    "months": "شهور",
+    "and": "و",
+
+   "installmentNum": "قسط رقم",
+   "from": "من",
+   "endTheInstallmentByPaying": "أنهاء القسط بدفع : ",
+   "lateReceivables": "المستحقات المتأخرة : ",
+   "restFromOriginalPhonePrice": "باقي من سعر الهاتف الأصلي : ",
+   "restFromProfitOfAgreement": "باقي من فوائد الاتفاق : ",
+
+    "additionalProfitNumOne": "تمت إضافة فوائد اضافية علي العميل بقيمة ",
+    "additionalProfitNumTwo": "جنية لتأخره عن ميعاد الدفع ",
+    "additionalProfitNumThree": "يوم. ولتأكيد الفائدة الإضافيه اضغط علي الصندوق جهة اليمين",
+
+    "installmentWasEndWithAdditionalProfitOf": "تم انهاء القسط بمكسب اضافي بقيمة",
+    "installmentWasEndWithAtALoseOne": "تم انهاء القسط بخسارة",
+    "installmentWasEndWithAtALoseTwo": "من سعر الهاتف الأصلي",
+    "installmentWasEndWithAtALoseThree": "من الفوائد المتفق عليها باجمالي",
+
+
+    "additionalProfitWarning": "سيتم احتساب الفائدة الإضافيه من الغد",
+
+   "callingClient" : "اتصل بالعميل",
+   "callingGuarantor" : "اتصل بالضامن",
+   "paymentRecord" : "سجل الدفع",
+   "updateClientData" : "تحديث بيانات العميل",
+    "endTheInstallment" : "انهاء القسط",
+
+   "endTheInstallmentWithALoseOf" : "انهاء القسط بخسارة",
+   "fromOriginalPhonePrice" : "من سعر الهاتف الأصلي :",
+   "fromProfitUntilKnow": "من الفائدة حتي الأن :",
+
+   "enterTheAmount": "أدخل القيمة",
+
+   "youCantPayZeroInThisCase" : "لا يمكنك الدفع بصفر في هذه الحالة",
+    "completeInstallmentsCanNotBeUpdated" : "لا يمكن تحديث الأقساط المكتملة",
+   "thisAmountIsGreaterThanTerminationAmount": "ذا الرقم أكبر من قيمة انهاء القسط",
+   "amountPaidIsBiggerThanRequiredOne" : "لا يمكن أن يكون المبلغ المدفوع أكبر من مجموع الباقي والفائدة",
+   "amountPaidIsBiggerThanRequiredTwo" : "لا يمكن أن يكون المبلغ المدفوع أكبر من أو مساو لأقصي مبلغ للدفع ",
+
+
+   "todayInstallments" : "أقساط اليوم",
+   "tomorrowInstallments" : "اقساط الغد",
+   "missedInstallments" : "الأقساط المتأخرة",
+   "determineDate" : "حدد التاريخ",
+   "selectDate" : "اختر التاريخ",
+    "loading" : "جار التحميل..",
+
+   "clients": "العملاء",
+   "state": "الحالة",
+   "da": "تاريخ/قيمة",
+
+   "canceled": "ملغي",
+   "paid": "مدفوع",
+   "today": "اليوم",
+   "late": "متأخر",
+   "next": "القادم"
+
+
+ }

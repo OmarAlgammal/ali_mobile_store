@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "199292391755",
+    "project_id": "ali-mobile-store-9a596",
+    "storage_bucket": "ali-mobile-store-9a596.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199292391755:android:c128762d42f2447b2e98ce",
+        "android_client_info": {
+          "package_name": "com.omar.ali_mobile_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199292391755-5nje9cu723q0thmkhfqoob1o40q70u7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqESzZe6YrwPsc0-ab7iQUGx3RBlT7iig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199292391755-5nje9cu723q0thmkhfqoob1o40q70u7b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
